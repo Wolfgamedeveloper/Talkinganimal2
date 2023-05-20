@@ -8,7 +8,7 @@ there would be more functions in the calopsiter but they weren't put by the plat
 betatesters comments:
 everyone was blown away by the game and only made comments praising the game saying that it didn't need to improve because it was already well done with great graphics great music and a impeccable interface and what really impressed them was the ufo race with the background the difficulty the interface the gameplay and especially the music that plays whenever they want to play ufo race several times in the end they approved 
 
-interface: 
+#interface:
 a simple and not too complex system 
 
 graphics:
