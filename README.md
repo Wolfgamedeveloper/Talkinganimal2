@@ -32,4 +32,3 @@ game walkgroud link:https://youtu.be/PS-GfVHRXuk
 game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bffde992b567
 
 # game piticures
-![Picsart_23-05-27_22-02-58-282.png](https://github.com/Wolfgamedeveloper/Talkinganimal2/assets/133543814/9ce4a8e6-f850-4cb1-b738-114b5ed86770
