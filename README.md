@@ -32,4 +32,5 @@ game walkgroud link:https://youtu.be/PS-GfVHRXuk
 game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bffde992b567
 
 <h1 align="center"> game piticures</H1>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+https://img.shields.io/youtube/channel/views/4ZACDnSLAPc?style=social
