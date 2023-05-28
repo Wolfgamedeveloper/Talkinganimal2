@@ -25,6 +25,7 @@ thank you to the betatesters who rated the game and everyone who has visited or 
 
 <h1 align="center"> -youtube:</H1>
 game presentation link:https://youtu.be/4ZACDnSLAPc
+
 ![Badge em Desenvolvimento](https://img.shields.io/youtube/channel/views/4ZACDnSLAPc?style=social)
 
 <h1 align="center"> -catrobat:</H1>
@@ -32,4 +33,4 @@ game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bff
 
 <h1 align="center"> game piticures</H1>
 
-![Badge em Desenvolvimento](https://img.shields.io/youtube/channel/views/4ZACDnSLAPc?style=social)
+
