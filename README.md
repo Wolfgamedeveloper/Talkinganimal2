@@ -32,4 +32,4 @@ game walkgroud link:https://youtu.be/PS-GfVHRXuk
 game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bffde992b567
 
 <h1 align="center"> game piticures</H1>
-?style=for-the-badge&logo=appveyor
+https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fendpoint%3Furl%3D%3CURL%3E%26style%3CSTYLE%3E-YouTube%20-red%20
