@@ -30,6 +30,7 @@ game presentation link:https://youtu.be/4ZACDnSLAPc
 
 <h1 align="center"> -catrobat:</H1>
 game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bffde992b567
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 <h1 align="center"> game piticures</H1>
 
