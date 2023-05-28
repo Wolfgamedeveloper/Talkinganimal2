@@ -20,6 +20,8 @@ boat race: "poisonous beach"
 attack area: "black car"
 rain of lamps: "dark night"
 
+https://img.shields.io/cirrus/github/aprovado/approved?color=green%20&label=test&logo=hhhhhhhh&logoColor=blue&script=test%3Dapproved%20q&task=build_docker
+
 <h1 align="center"> thanks:</H1>
 thank you to the betatesters who rated the game and everyone who has visited or played the game i am forever grateful for that♥
 
@@ -36,5 +38,6 @@ game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bff
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 <h1 align="center"> game piticures</H1>
+
 
 
