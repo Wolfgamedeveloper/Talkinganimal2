@@ -20,7 +20,7 @@ boat race: "poisonous beach"
 attack area: "black car"
 rain of lamps: "dark night"
 
-https://img.shields.io/cirrus/github/aprovado/approved?color=green%20&label=test&logo=hhhhhhhh&logoColor=blue&script=test%3Dapproved%20q&task=build_docker
+[badge em desenvolvimento](https://img.shields.io/cirrus/github/aprovado/approved?color=green%20&label=test&logo=hhhhhhhh&logoColor=blue&script=test%3Dapproved%20q&task=build_docker)
 
 <h1 align="center"> thanks:</H1>
 thank you to the betatesters who rated the game and everyone who has visited or played the game i am forever grateful for that♥
