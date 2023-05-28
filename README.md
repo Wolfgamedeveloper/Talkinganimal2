@@ -32,4 +32,4 @@ game walkgroud link:https://youtu.be/PS-GfVHRXuk
 game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bffde992b567
 
 # game piticures
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+<h1 align="center"> Seu título aqui </h1>
