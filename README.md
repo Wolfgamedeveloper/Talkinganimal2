@@ -24,6 +24,8 @@ rain of lamps: "dark night"
 thank you to the betatesters who rated the game and everyone who has visited or played the game i am forever grateful for that♥
 
 <h1 align="center"> -youtube:</H1>
+game walkgroud: https://youtu.be/PS-GfVHRXuk
+
 game presentation link:https://youtu.be/4ZACDnSLAPc
 
 ![Badge em Desenvolvimento](https://img.shields.io/youtube/channel/views/4ZACDnSLAPc?style=social)
