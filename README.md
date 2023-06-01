@@ -27,7 +27,7 @@ attack area: "black car"
 rain of lamps: "dark night"
 
 
-"img alt="Codeship" src="https://img.shields.io/codeship/h?color=blueviolet&label=music%27s%20approved%20&style=for-the-badge"
+img alt=Codeship src="https://img.shields.io/codeship/h?color=blueviolet&label=music%27s%20approved%20&style=for-the-badge
 
 
 <h1 align="center"> thanks:</H1>
