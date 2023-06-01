@@ -8,15 +8,17 @@ there would be more functions in the calopsiter but they weren't put by the plat
 <h1 align="center">  betatesters comments: </H1>
 everyone was blown away by the game and only made comments praising the game saying that it didn't need to improve because it was already well done with great graphics great music and a impeccable interface and what really impressed them was the ufo race with the background the difficulty the interface the gameplay and especially the music that plays whenever they want to play ufo race several times in the end they approved 
 
+<img alt="Codeship" src="https://img.shields.io/codeship/h?color=brightgreen&label=game%20approved%20&style=for-the-badge">
+
 <h1 align="center"> interface:</H1>
 a simple and not too complex system 
 
-<img alt="Codeship" src="https://img.shields.io/codeship/j?color=green&label=talking%20animal2&logo=fun&logoColor=green%20&style=for-the-badge">
+<img alt="Codeship" src="https://img.shields.io/codeship/h?color=blue&label=interface%20approved%20&style=for-the-badge">
 
 <h1 align="center"> graphics:</H1>
 common graphics without alterations with few colors and pixels not very symmetrical and classified by having a sense of light and shadow of class 2
 
-<img alt="Codeship" src="https://img.shields.io/codeship/j?color=green&label=talking%20animal2&logo=fun&logoColor=green%20&style=for-the-badge">
+<img alt="Codeship" src="https://img.shields.io/codeship/h?color=green&label=graphics%20approved%20&style=for-the-badge">
 
 <h1 align="center"> music's:</H1>
 uforace: "song of the stars"
@@ -24,7 +26,7 @@ boat race: "poisonous beach"
 attack area: "black car"
 rain of lamps: "dark night"
 
-<img alt="Codeship" src="https://img.shields.io/codeship/j?color=green&label=talking%20animal2&logo=fun&logoColor=green%20&style=for-the-badge">
+<img alt="Codeship" src="https://img.shields.io/codeship/h?color=blueviolet&label=music%27s%20approved%20&style=for-the-badge">
 
 
 <h1 align="center"> thanks:</H1>
