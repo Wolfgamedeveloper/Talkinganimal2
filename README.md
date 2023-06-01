@@ -11,12 +11,12 @@ everyone was blown away by the game and only made comments praising the game say
 <h1 align="center"> interface:</H1>
 a simple and not too complex system 
 
-<img alt="Cirrus CI - Task and Script Build Status" src="https://img.shields.io/cirrus/github/aprovado/approved?color=green%20&label=test&logo=hhhhhhhh&logoColor=blue&script=test%3Dapproved%20q&task=build_docker">
+<img alt="Codeship" src="https://img.shields.io/codeship/j?color=green&label=talking%20animal2&logo=fun&logoColor=green%20&style=for-the-badge">
 
 <h1 align="center"> graphics:</H1>
 common graphics without alterations with few colors and pixels not very symmetrical and classified by having a sense of light and shadow of class 2
 
-<img alt="Cirrus CI - Task and Script Build Status" src="https://img.shields.io/cirrus/github/aprovado/approved?color=green%20&label=test&logo=hhhhhhhh&logoColor=blue&script=test%3Dapproved%20q&task=build_docker">
+<img alt="Codeship" src="https://img.shields.io/codeship/j?color=green&label=talking%20animal2&logo=fun&logoColor=green%20&style=for-the-badge">
 
 <h1 align="center"> music's:</H1>
 uforace: "song of the stars"
@@ -24,7 +24,7 @@ boat race: "poisonous beach"
 attack area: "black car"
 rain of lamps: "dark night"
 
-<img alt="Cirrus CI - Task and Script Build Status" src="https://img.shields.io/cirrus/github/aprovado/approved?color=green%20&label=test&logo=hhhhhhhh&logoColor=blue&script=test%3Dapproved%20q&task=build_docker">
+<img alt="Codeship" src="https://img.shields.io/codeship/j?color=green&label=talking%20animal2&logo=fun&logoColor=green%20&style=for-the-badge">
 
 
 <h1 align="center"> thanks:</H1>
