@@ -50,4 +50,3 @@ game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bff
 
 
 
-<img alt="Cirrus CI - Task and Script Build Status" src="https://img.shields.io/cirrus/github/aprovado/approved?color=green%20&label=test&logo=hhhhhhhh&logoColor=blue&script=test%3Dapproved%20q&task=build_docker">
