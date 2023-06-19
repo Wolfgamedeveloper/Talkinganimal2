@@ -57,3 +57,5 @@ game link:https://share.catrob.at/pocketcode/project/bc6ddb89-c3e6-4cac-a47f-bff
 
 
 ![ezgif.com-optimize.gif](https://github.com/Wolfgamedeveloper/Talkinganimal2/assets/133543814/a106fb71-4def-4a80-9c85-4b140bb0e6e8)
+![ezgif.com-optimize (2).gif](https://github.com/Wolfgamedeveloper/Talkinganimal2/assets/133543814/9fffdb23-5828-4b33-8f4d-49fa7d7e6500)
+![ezgif.com-optimize (1).gif](https://github.com/Wolfgamedeveloper/Talkinganimal2/assets/133543814/4da869b9-b19b-467f-9b4f-f287f2715702)
